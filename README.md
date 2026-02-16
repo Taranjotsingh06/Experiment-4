@@ -46,16 +46,4 @@ Initial State:
 Updated State:
 ![Updated](./screenshots/4.2.2.png)
 
---------------------------------------------
 
-## How to Run
-
-For Context API:
-cd 4.1
-npm install
-npm run dev
-
-For Redux:
-cd 4.2
-npm install
-npm run dev
